@@ -1,0 +1,10 @@
+body,html,ul,li,p{
+	margin:0;
+	padding:0;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	font-family:Helvetica;
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
